@@ -11,7 +11,6 @@
 - 🥁 Past fun facts: rock band (drummer - Nirvana, Alice in Chains, Sepultura etc), mobyla, roller, bike.
 
 - 📫 How to find me: 
-![image](https://user-images.githubusercontent.com/9029678/116293868-aebfa080-a76d-11eb-822b-1d587b2af9f0.png)
 
-[Flex Grid](https://www.linkedin.com/in/niltonferraz/)
+[![image](https://user-images.githubusercontent.com/9029678/116293868-aebfa080-a76d-11eb-822b-1d587b2af9f0.png)](https://www.linkedin.com/in/niltonferraz/)
 

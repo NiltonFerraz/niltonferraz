@@ -10,9 +10,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with new job at Tests QA or Front-end developer.
 - 🎧 Ask me about: music (Depeche Mode, Red Hot Chilli Peppers, Imagine Dragons, Skillet, Rodolfo Abrantes, Gabriela Rocha, Fernandinho, Isaias Saad) 
-- 🏠 Ask me about: house construction (planner, materials, finish line, components)
+- 🏠 Ask me about: house construction (planner, materials, finish line, components), cooking: bananas pie, carrot cake,
 - 🏢 Ask me about: Excel (sheets, functions, graphics, commands, pivot table, macro, vba)
-- 🥁 Past fun facts: rock band (drummer - Nirvana, Alice in Chains, Sepultura etc), mobyla, roller, bike.
+- 🥁 Past fun facts: rock band drummer, gospel band drummer, mobyla, roller, bike.
 
 - 📫 How to find me: 
 
@@ -28,7 +28,7 @@
   <a href="mailto:nilferraz@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail%20nilferraz@gmail.com-D14836?logo=gmail&logoColor=white&link=mailto:nilferraz@gmail.com" />
 	<a href="https://twitter.com/nilferraz">
-      <img alt="Twitter" src="https://img.shields.io/twitter/follow/niltonferraz?label=Follow%20%40Felipe52956739&logo=Twitter&style=flat"></a>
+      <img alt="Twitter" src="https://img.shields.io/twitter/follow/niltonferraz?label=Follow%20%40niltonferraz&logo=Twitter&style=flat"></a>
 </p>
     
   

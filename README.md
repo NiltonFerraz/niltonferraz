@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCjW59Dpct0AFXlc1wRf5Mwg">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=write" /><a/>
-   <a href="https://www.linkedin.com/in/felipe-gadelha-diniz-da-silva-aaaa4a158/">
+   <a href="https://www.linkedin.com/in/niltonferraz/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /><a/>
   <a href="https://www.instagram.com/niltonferraz/">  
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /><a/>
@@ -28,7 +28,7 @@
   <a href="mailto:nilferraz@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail%20nilferraz@gmail.com-D14836?logo=gmail&logoColor=white&link=mailto:nilferraz@gmail.com" />
 	<a href="https://twitter.com/nilferraz">
-      <img alt="Twitter" src="https://img.shields.io/twitter/follow/Felipe52956739?label=Follow%20%40Felipe52956739&logo=Twitter&style=flat"></a>
+      <img alt="Twitter" src="https://img.shields.io/twitter/follow/niltonferraz?label=Follow%20%40Felipe52956739&logo=Twitter&style=flat"></a>
 </p>
     
   

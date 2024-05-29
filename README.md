@@ -4,13 +4,13 @@
 ### Find me elsewhere 🌎
 
 
-- 🔭 I’m currently working on Selenium Webdriver with and Java, Maven, JUnit, JFrame, Jdbc + Oracle Db to webtests.
+- 🔭 I’m currently working on Selenium Webdriver with Javascript, Node.js, Cucumber, VSCode, to chatbot tests on Whatsapp.
 - 🇧🇷  I'm from Brazil.
-- 🌱 I’m currently learning more about Java.
+- 🌱 I’m currently learning more about FrontEnd.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with new job at Tests QA or Front-end developer.
-- 🎧 Ask me about: music (Depeche Mode, Red Hot Chilli Peppers, Imagine Dragons, Skillet, Rodolfo Abrantes, Gabriela Rocha, Fernandinho, Isaias Saad) 
-- 🏠 Ask me about: house construction (planner, materials, finish line, components), cooking: bananas pie, carrot cake,
+- 🤔 I’m looking for help with new job at Tests QA or Developer.
+- 🎧 Ask me about: music (Depeche Mode, Red Hot Chilli Peppers, Imagine Dragons, Twenty One Pilots, Linkin Park, Skillet, Rodolfo Abrantes, Gabriela Rocha, Nívea Soares, Fernandinho, Isaias Saad) 
+- 🏠 Ask me about: house construction (planner, materials, finish line, components), cooking: bananas pie, carrot cake.
 - 🏢 Ask me about: Excel (sheets, functions, graphics, commands, pivot table, macro, vba)
 - 🥁 Past fun facts: rock band drummer, gospel band drummer, mobyla, roller, bike.
 

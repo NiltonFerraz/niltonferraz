@@ -19,7 +19,7 @@
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
-- 🤔 I’m looking for help with new job at Developer or Tests Analyst/QA.
+- 🤔 I’m looking for help with new job at Developer.
 - 🌱 I’m currently learning more about FrontEnd.
 
 

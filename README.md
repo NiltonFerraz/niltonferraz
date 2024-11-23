@@ -1,18 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Nilton Ferraz 👋
 ![](https://komarev.com/ghpvc/?username=NiltonFerraz&color=brightgreen)
 
 ### Find me elsewhere 🌎
 
-
-- 🔭 I’m currently working on Selenium Webdriver with Javascript, Node.js, Cucumber, VSCode, to chatbot tests on Whatsapp.
+### About
 - 🇧🇷  I'm from Brazil.
-- 🌱 I’m currently learning more about FrontEnd.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with new job at Tests QA or Developer.
+- I'm a Test Analyst/QA and I'm studying web development at [Rocketseat] (https://rocketseat.com.br/).
 - 🎧 Ask me about: music (Depeche Mode, Red Hot Chilli Peppers, Imagine Dragons, Twenty One Pilots, Linkin Park, Skillet, Rodolfo Abrantes, Gabriela Rocha, Nívea Soares, Fernandinho, Isaias Saad) 
 - 🏠 Ask me about: house construction (planner, materials, finish line, components), cooking: bananas pie, carrot cake.
 - 🏢 Ask me about: Excel (sheets, functions, graphics, commands, pivot table, macro, vba)
 - 🥁 Past fun facts: rock band drummer, gospel band drummer, mobyla, roller, bike.
+
+### Current stack
+- Main language: `Javascript`
+- 🔭 Currently working:  `Selenium Webdriver`, `Node.js`, `Cucumber`, `VSCode`, to chatbot tests on Whatsapp.
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
+- 🤔 I’m looking for help with new job at Developer or Tests Analyst/QA.
+- 🌱 I’m currently learning more about FrontEnd.
+
 
 - 📫 How to find me: 
 
